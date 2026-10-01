@@ -1,0 +1,5 @@
+send_date,channel,audience,message_type,key_message,call_to_action,owner,status,link
+YYYY-MM-DD,,,Announcement,,,,Draft,
+YYYY-MM-DD,,,Reminder,,,,Draft,
+YYYY-MM-DD,,,Day-of,,,,Draft,
+YYYY-MM-DD,,,Thank-you,,,,Draft,

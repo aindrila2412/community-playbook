@@ -1,0 +1,6 @@
+person_id,name,role,contact_method,topic_or_task,status,confirmed_date,brief_sent,materials_received,thank_you_sent,access_needs,notes
+P-001,Sample Speaker A,Speaker,Email,Intro to spreadsheets,Confirmed,2026-11-01,Yes,Yes,No,None noted,FICTIONAL
+P-002,Sample Speaker B,Speaker,Email,Backup talk,Invited,,No,No,No,,FICTIONAL
+P-003,Sample Volunteer C,Volunteer,Chat,Breakout room lead,Confirmed,2026-11-02,Yes,n/a,No,,FICTIONAL
+P-004,Sample Volunteer D,Volunteer,Chat,Chat moderator,Confirmed,2026-11-02,Yes,n/a,No,,FICTIONAL
+P-005,Sample Volunteer E,Volunteer,Chat,Tech check,Declined,,No,n/a,No,,FICTIONAL

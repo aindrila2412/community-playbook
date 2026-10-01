@@ -1,0 +1,7 @@
+category,item,type,estimated_amount,actual_amount,currency,paid_by,status,notes
+Platform,,Expense,,,,,Planned,
+Speaker costs,,Expense,,,,,Planned,
+Accessibility,Captioning,Expense,,,,,Planned,
+Marketing,,Expense,,,,,Planned,
+Contingency,Reserve (suggest 10 percent),Expense,,,,,Planned,
+Funding,,Income,,,,,Planned,

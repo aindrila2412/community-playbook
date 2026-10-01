@@ -1,0 +1,7 @@
+send_date,channel,audience,message_type,key_message,call_to_action,owner,status,link
+2026-10-05,Newsletter,All members,Announcement,Study session on 2026-11-30,Register,Sample Manager,Scheduled,
+2026-11-09,Forum,All members,Reminder,3 weeks to go; agenda draft,Register,Sample Moderator A,Draft,
+2026-11-23,Newsletter,Registered,Reminder,1 week to go; joining instructions,Add to calendar,Sample Manager,Draft,
+2026-11-29,Chat,Registered,Reminder,Tomorrow: link and code of conduct,Join on time,Sample Moderator B,Draft,
+2026-11-30,Chat,Attendees,Day-of,Starting soon,Join,Sample Moderator B,Draft,
+2026-12-01,Email,Attendees,Thank-you,Thanks + feedback survey,Complete survey,Sample Manager,Draft,

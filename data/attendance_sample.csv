@@ -1,0 +1,81 @@
+registrant_id,level_group,referral_source,registered_on,attended,minutes_attended,member_type,feedback_rating
+A001,Intermediate,Forum,2026-11-24,Yes,86,New,5
+A002,Beginner,Forum,2026-11-12,Yes,38,New,5
+A003,Advanced,Social post,2026-11-20,No,0,Returning,
+A004,Advanced,Newsletter,2026-11-10,No,0,Returning,
+A005,Beginner,Social post,2026-11-24,Yes,19,New,
+A006,Beginner,Forum,2026-11-16,Yes,90,New,3
+A007,Intermediate,Social post,2026-11-10,Yes,50,Returning,3
+A008,Beginner,Forum,2026-11-10,Yes,18,New,4
+A009,Advanced,Newsletter,2026-11-12,Yes,17,New,5
+A010,Advanced,Forum,2026-11-16,Yes,24,New,4
+A011,Beginner,Newsletter,2026-11-10,Yes,67,New,4
+A012,Beginner,Forum,2026-11-12,Yes,86,Returning,
+A013,Beginner,Forum,2026-11-12,Yes,64,New,5
+A014,Beginner,Newsletter,2026-11-24,Yes,17,Returning,3
+A015,Beginner,Forum,2026-11-10,No,0,Returning,
+A016,Intermediate,Newsletter,2026-11-10,Yes,52,New,3
+A017,Intermediate,Forum,2026-11-12,Yes,62,Returning,5
+A018,Beginner,Forum,2026-11-16,Yes,64,New,
+A019,Beginner,Friend referral,2026-11-24,Yes,39,New,4
+A020,Advanced,Newsletter,2026-11-10,No,0,New,
+A021,Intermediate,Newsletter,2026-11-20,Yes,80,New,5
+A022,Beginner,Social post,2026-11-10,Yes,81,New,5
+A023,Advanced,Forum,2026-11-16,No,0,New,
+A024,Beginner,Friend referral,2026-11-10,No,0,New,
+A025,Beginner,Newsletter,2026-11-16,Yes,46,New,3
+A026,Intermediate,Social post,2026-11-24,Yes,32,Returning,
+A027,Intermediate,Social post,2026-11-16,Yes,17,New,5
+A028,Advanced,Newsletter,2026-11-12,Yes,23,New,5
+A029,Advanced,Friend referral,2026-11-12,Yes,20,New,5
+A030,Intermediate,Social post,2026-11-10,Yes,24,New,5
+A031,Intermediate,Forum,2026-11-24,No,0,New,
+A032,Intermediate,Social post,2026-11-16,Yes,29,New,
+A033,Intermediate,Forum,2026-11-24,No,0,New,
+A034,Beginner,Newsletter,2026-11-10,Yes,80,New,5
+A035,Intermediate,Social post,2026-11-16,Yes,77,New,5
+A036,Intermediate,Friend referral,2026-11-20,Yes,36,New,
+A037,Beginner,Forum,2026-11-12,Yes,47,New,5
+A038,Beginner,Newsletter,2026-11-20,No,0,New,
+A039,Beginner,Friend referral,2026-11-16,No,0,New,
+A040,Intermediate,Social post,2026-11-20,Yes,75,New,4
+A041,Advanced,Social post,2026-11-24,No,0,New,
+A042,Intermediate,Social post,2026-11-10,Yes,19,Returning,
+A043,Advanced,Friend referral,2026-11-10,Yes,54,Returning,4
+A044,Beginner,Friend referral,2026-11-10,Yes,49,Returning,3
+A045,Advanced,Friend referral,2026-11-16,No,0,New,
+A046,Beginner,Social post,2026-11-16,No,0,New,
+A047,Intermediate,Forum,2026-11-10,No,0,New,
+A048,Advanced,Friend referral,2026-11-24,Yes,59,Returning,3
+A049,Beginner,Forum,2026-11-20,Yes,43,New,3
+A050,Beginner,Forum,2026-11-24,No,0,Returning,
+A051,Intermediate,Forum,2026-11-12,No,0,New,
+A052,Advanced,Social post,2026-11-10,No,0,New,
+A053,Beginner,Social post,2026-11-24,Yes,64,New,5
+A054,Intermediate,Forum,2026-11-10,No,0,New,
+A055,Intermediate,Forum,2026-11-10,Yes,68,New,
+A056,Beginner,Forum,2026-11-12,Yes,19,New,5
+A057,Advanced,Social post,2026-11-20,No,0,New,
+A058,Beginner,Forum,2026-11-24,Yes,26,New,
+A059,Advanced,Forum,2026-11-24,Yes,36,New,4
+A060,Advanced,Newsletter,2026-11-12,No,0,Returning,
+A061,Intermediate,Newsletter,2026-11-24,Yes,88,New,5
+A062,Beginner,Forum,2026-11-20,Yes,83,Returning,
+A063,Beginner,Friend referral,2026-11-10,Yes,77,Returning,4
+A064,Intermediate,Newsletter,2026-11-20,Yes,75,New,3
+A065,Intermediate,Newsletter,2026-11-10,Yes,18,New,3
+A066,Intermediate,Friend referral,2026-11-12,Yes,51,Returning,4
+A067,Beginner,Social post,2026-11-24,No,0,New,
+A068,Advanced,Forum,2026-11-20,No,0,New,
+A069,Advanced,Forum,2026-11-24,Yes,67,New,
+A070,Advanced,Newsletter,2026-11-24,Yes,42,Returning,3
+A071,Beginner,Newsletter,2026-11-16,Yes,59,New,3
+A072,Beginner,Social post,2026-11-12,No,0,Returning,
+A073,Beginner,Forum,2026-11-20,Yes,64,Returning,
+A074,Advanced,Friend referral,2026-11-10,Yes,66,New,5
+A075,Beginner,Friend referral,2026-11-16,Yes,61,Returning,
+A076,Beginner,Forum,2026-11-10,No,0,New,
+A077,Advanced,Forum,2026-11-24,No,0,New,
+A078,Beginner,Newsletter,2026-11-12,Yes,38,New,
+A079,Beginner,Social post,2026-11-20,Yes,22,New,
+A080,Intermediate,Forum,2026-11-20,Yes,74,New,3

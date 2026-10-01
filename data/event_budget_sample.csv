@@ -1,0 +1,7 @@
+category,item,type,estimated_amount,actual_amount,currency,paid_by,status,notes
+Platform,Webinar tool (existing licence),Expense,0,0,INR,n/a,Done,FICTIONAL
+Speaker costs,Thank-you gifts,Expense,2000,1800,INR,Organiser,Done,FICTIONAL
+Accessibility,Captioning,Expense,1500,,INR,Organiser,Planned,FICTIONAL
+Marketing,Graphics tool (free tier),Expense,0,0,INR,n/a,Done,FICTIONAL
+Contingency,Reserve,Expense,500,,INR,Organiser,Planned,FICTIONAL
+Funding,Sample sponsor contribution,Income,4000,,INR,Sample sponsor,Planned,FICTIONAL

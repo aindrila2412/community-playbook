@@ -1,0 +1,3 @@
+person_id,name,role,contact_method,topic_or_task,status,confirmed_date,brief_sent,materials_received,thank_you_sent,access_needs,notes
+P-001,,Speaker,,,Invited,,No,No,No,,
+P-002,,Volunteer,,,Invited,,No,No,No,,
