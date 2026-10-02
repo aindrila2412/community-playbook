@@ -1,57 +1,22 @@
 # Community Playbook
 
-A personal, reusable set of templates and two small Python scripts for running an online learning community: strategy and onboarding, a content calendar, a code of conduct with moderation guidelines, an engagement-metrics report, and an event playbook with a post-event attendance report.
+A set of templates and two small Python scripts for running an online learning community. I made it to practise
+thinking through community management: welcoming people, keeping the space safe, planning content and events, and
+picking metrics that actually lead to something you can do.
 
-> **Personal template project. Sample data only.**
-> "Example Learners Club" is an invented community. All names, dates, amounts, and figures are **fictional** and were generated for demonstration. Nothing here describes a real community, client, or employer, and no real results are claimed.
+The community in it, "Example Learners Club", is made up. All the names, dates, amounts and numbers are fictional and
+were generated just to show the scripts working. It doesn't describe a real community, client or employer.
 
-## Purpose
+## What's in it
 
-To practise and share a clear, humane structure for community management: welcome people well, keep the space safe, plan content and events, and measure health with metrics that lead to action.
+- `docs/` has the strategy and onboarding notes, a code of conduct with a moderation guide, and a note on engagement
+  metrics.
+- `events/event-playbook.md` covers planning an event from start to finish.
+- `templates/` has the content calendar, moderation log, event checklist, speaker and volunteer tracker, comms
+  calendar, budget and post-event report templates.
+- `data/` is the fictional sample data, and `output/` is what the scripts produce from it.
 
-## Structure
-
-```text
-community-playbook/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── .markdownlint.json
-├── requirements.txt
-├── .github/workflows/ci.yml
-├── docs/
-│   ├── community-strategy-and-onboarding.md
-│   ├── code-of-conduct-and-moderation.md
-│   └── engagement-metrics.md
-├── events/event-playbook.md
-├── templates/
-│   ├── content-calendar-template.csv
-│   ├── moderation-log-template.csv
-│   ├── event-planning-checklist.md
-│   ├── speaker-volunteer-tracker-template.csv
-│   ├── event-comms-calendar-template.csv
-│   ├── event-budget-template.csv
-│   └── post-event-report-template.md
-├── data/                                   # FICTIONAL samples
-│   ├── content_calendar_sample.csv
-│   ├── engagement_sample.csv
-│   ├── attendance_sample.csv
-│   ├── speaker_volunteer_sample.csv
-│   ├── event_comms_sample.csv
-│   └── event_budget_sample.csv
-├── scripts/
-│   ├── engagement_report.py                # weekly engagement metrics + chart
-│   └── event_report.py                     # attendance report + chart
-└── output/                                 # generated from the sample data
-```
-
-## How to use it
-
-1. Read [strategy and onboarding](docs/community-strategy-and-onboarding.md) and adapt it to your community.
-2. Adopt or adapt the [code of conduct and moderation guide](docs/code-of-conduct-and-moderation.md).
-3. Plan content with the content calendar template.
-4. Plan events with the [event playbook](events/event-playbook.md) and the templates.
-5. Run the reports:
+## Running the scripts
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
@@ -60,14 +25,15 @@ python scripts/engagement_report.py
 python scripts/event_report.py
 ```
 
-Both scripts accept `--input` and `--outdir`; the default input is the fictional sample.
+The first makes a weekly engagement report and chart. The second makes an attendance report and chart. Both take
+`--input` and `--outdir`, and use the fictional sample by default.
 
-## Limitations
+## Honest notes
 
-- Templates are starting points; adapt them to your platform, culture, and local law.
-- The code of conduct is not legal advice.
-- Sample data is random and is only for checking that the scripts work.
+The templates are starting points, so you'd need to adapt them to your own platform and culture. The code of conduct is
+not legal advice. The sample data is random, so only use it to check the scripts run. I'd like to add a template for
+handling a moderation appeal next, since that's the part I find hardest to word well.
 
 ## Licence
 
-MIT. See [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).
